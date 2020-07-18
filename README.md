@@ -1,1 +1,1 @@
-# learning-typescript
+# This is a repo for save my firsts line of typescript. I followed the course of Willian Justen the [Mini Curso de Typescript](https://www.youtube.com/watch?v=mRixno_uE2o&list=PLlAbYrWSYTiPanrzauGa7vMuve7_vnXG_)
