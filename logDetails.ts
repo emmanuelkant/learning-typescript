@@ -16,7 +16,7 @@ function renderPlatform(platform: Platform) {
 }
 
 renderPlatform('Windows')
-renderPlatform('ios') // Error
+// renderPlatform('ios')  // Error
 
 logDetails(123, 'shoes ')
 logDetails('123', 'shoes')

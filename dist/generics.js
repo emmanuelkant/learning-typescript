@@ -10,5 +10,5 @@ function useState() {
     return { getState: getState, setState: setState };
 }
 var newState = useState();
-newState.setState(123);
+newState.setState('123');
 console.log(newState.getState());

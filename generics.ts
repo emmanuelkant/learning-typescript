@@ -1,15 +1,15 @@
 function useState<S extends number | string = string>() {
-    let state: S;
+  let state: S;
 
-    function getState() {
-        return state;
-    }
+  function getState() {
+      return state;
+  }
 
-    function setState(newState: S) {
-        state = newState;
-    }
+  function setState(newState: S) {
+      state = newState;
+  }
 
-    return { getState, setState };
+  return { getState, setState };
 }
 
 const newState = useState<string>();

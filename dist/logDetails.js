@@ -9,7 +9,7 @@ function renderPlatform(platform) {
     return platform;
 }
 renderPlatform('Windows');
-renderPlatform('ios'); // Error
+// renderPlatform('ios')  // Error
 logDetails(123, 'shoes ');
 logDetails('123', 'shoes');
 logInfo(123, 'kant');

@@ -56,7 +56,7 @@ message2 = 'new string'
 
 window.addEventListener('click', (e) => {
   console.log(e.target)
-  console.log(e.foo) /* does not exist foo in MouseEvent */
+  // console.log(e.foo) /* does not exist foo in MouseEvent */
 })
 
 
